@@ -1,0 +1,72 @@
+[
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"True"
+        },
+        "true_label":true
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"True"
+        },
+        "true_label":true
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"True"
+        },
+        "true_label":true
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"True"
+        },
+        "true_label":false
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"False"
+        },
+        "true_label":false
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"True"
+        },
+        "true_label":false
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"False"
+        },
+        "true_label":false
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"True"
+        },
+        "true_label":true
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"False"
+        },
+        "true_label":false
+    },
+    {
+        "prompt":"Given the image of a cell , answer the following mutliple choice question.\n\n\n        Question: Does the below Image contains elements of a microtiter plate well edge??\n\n        choices:\n        1)True\n        1)False\n\n        select the option and no need of explanation.\n\n        ",
+        "response":{
+            "vision":"True"
+        },
+        "true_label":true
+    }
+]
