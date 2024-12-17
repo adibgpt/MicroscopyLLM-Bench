@@ -8,6 +8,8 @@ The repository includes:
 2. Analysis of PubMed histological datasets to generate descriptions and identify key features.
 3. Detailed results and performance evaluation of multiple models.
 
+![image](https://github.com/adibgpt/MicroscopyLLM-Bench/blob/7abb0436e47142aabbee7e0d07bd7fe90ce9fdfb/workflow.png)
+
 ## Directory Structure
 ```plaintext
 .
