@@ -57,6 +57,7 @@ The following datasets are used in this project:
    - [HuggingFace Dataset Link](https://huggingface.co/datasets/mario-dg/brightfield-microscopy-scc)
    - Microscopy cell images for object detection tasks.
 
+![image]https://github.com/adibgpt/MicroscopyLLM-Bench/blob/9cc09d55270038145a6c83b67a49a50847a2353e/Datasets/Brightfield%20Microscopy%20SCC/image%20(2).png 
 ## Notebooks
 The repository includes the following Jupyter notebooks:
 
