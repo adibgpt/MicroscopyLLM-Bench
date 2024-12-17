@@ -53,6 +53,8 @@ The following datasets are used in this project:
    - [HuggingFace Dataset Link](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)
    - A dataset of histopathological and microscopic images for biomedical image analysis.
 
+![image](https://github.com/adibgpt/MicroscopyLLM-Bench/blob/815cdb365b72afa7a1365135c10aea509ff785ed/Datasets/PubMedVision/pmc_13_0.jpg)
+
 3. **Brightfield Microscopy SCC**
    - [HuggingFace Dataset Link](https://huggingface.co/datasets/mario-dg/brightfield-microscopy-scc)
    - Microscopy cell images for object detection tasks.
