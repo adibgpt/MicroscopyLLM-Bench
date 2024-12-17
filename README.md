@@ -49,6 +49,8 @@ The following datasets are used in this project:
    - [HuggingFace Dataset Link](https://huggingface.co/datasets/mario-dg/dreambooth-cell-images/viewer/default/train?p=45)
    - Contains microscopic cell images for object classification.
 
+![image](https://github.com/adibgpt/MicroscopyLLM-Bench/blob/5f5eaea5cb3eb68eeb329e47051da9d9fbab2ff3/Datasets/Dreambooth%20Cell%20Images/image%20(9).jpg)
+
 2. **PubMedVision**
    - [HuggingFace Dataset Link](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)
    - A dataset of histopathological and microscopic images for biomedical image analysis.
