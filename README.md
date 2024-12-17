@@ -101,8 +101,8 @@ Follow these steps to run the notebooks:
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-name>
+   git clone <[repo-url](https://github.com/adibgpt/MicroscopyLLM-Bench)>
+   cd <MicroscopyLLM-Bench>
    ```
 
 2. Install the required dependencies:
