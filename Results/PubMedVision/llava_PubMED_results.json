@@ -1,0 +1,57 @@
+[
+    {
+        "id":"Alignment_VQA_13",
+        "prompt":"Describe the composition and the subjects in this picture.",
+        "response":{
+            "vision":"\nDescribe the composition and the subjects in this picture. The image captures a close-up view of a microscopic world, filled with purple-colored cells. These cells are organized in a honeycomb-like structure, exhibiting a symmetrical nature. The image is taken from an angle, which causes the cells to overlap and merge, creating the illusion of depth. The overall scene presents a field of cells, each connected to its neighbors, collectively forming a cohesive pattern. The precise arrangement and overlapping of the cells suggest a dense and interconnected tissue structure. The purple hue dominating the image adds a sense of uniformity and harmony to the cellular landscape.Object recognition in cells:"
+        },
+        "semantic_similarity":{
+            "vision":0.3206269145
+        },
+        "true_label":"The image depicts a histopathological examination of an excised tumor under a microscope with H&E (hematoxylin and eosin) staining at 40x magnification. The tumor tissue shows a dense population of cells with significant pleomorphism. The cells are predominantly epithelioid with basophilic cytoplasm indicating high RNA content, likely reflecting active protein synthesis. Intermixed are occasional spindled cells. The nuclei of the cells vary in size and shape, showing irregular contours, coarse chromatin, and prominent nucleoli, suggesting malignant transformation. There are visible signs of mitotic activity among several cells, an indicator of rapid cellular proliferation. The overall features suggest a highly cellular and aggressive tumor morphology."
+    },
+    {
+        "id":"Alignment_VQA_14",
+        "prompt":"Write a description of the given image.",
+        "response":{
+            "vision":"\nWrite a description of the given image. The image presents a close-up view of intricate purple and gray patterns. The patterns consist of floral and circular shapes, arranged in a diagonal sequence across the image. The background is a light gray color, providing a contrast to the darker purple and gray hues of the designs. Two yellow arrows are visible in the image, pointing towards the center of the design, indicating a focal point within the pattern. The overall image has a textured appearance, enhancing the visual complexity of the design.{\"source\": \"https:\/\/www.scandis.com\/products\/tie-dye\/article\/tie_dye_how-to_steps\/"
+        },
+        "semantic_similarity":{
+            "vision":0.2226233929
+        },
+        "true_label":"The image displays a histological section of kidney cortex stained with PAS (Periodic Acid-Schiff) staining method. This particular staining highlights the basement membranes, brush border, and other intrinsic structures in shades of magenta and purple colors. We observe multiple cross-sectional and longitudinal views of glomeruli, which appear as well-defined, spherical to ovoid structures. Each glomerulus is surrounded by a Bowman's capsule, which is less intensely stained and slightly lighter compared to the glomeruli. The surrounding renal tubules, specifically the proximal tubules, show a prominent thick red\/pink border encircling the luminal walls, indicative of intense PAS positivity due to the abundance of brush borders. The connective tissue in between the tubular structures appears lightly stained, providing a clear distinction from the highly stained tubules and glomeruli."
+    },
+    {
+        "id":"Alignment_VQA_19",
+        "prompt":"What details stand out in this image?",
+        "response":{
+            "vision":"\nWhat details stand out in this image? In this image, there are two 3D depictions of a collagen matrix, with the top one surrounded by a lighter blue color while the one on the bottom has a smaller square squarely situated within. Each representation has a small label in front of it, noting the volume of the matrix as 4 um\u00b3 (nanometers cubed), indicating the scale of the depicted structure. One of the matrices is enclosed within a purple box, which stands out from the surrounding matrix, possibly drawing attention to a specific part of the graphic. This detailed description offers a comprehensive understanding of the specific characteristics and elements present in the image, providing valuable information about its content.It"
+        },
+        "semantic_similarity":{
+            "vision":0.4826748967
+        },
+        "true_label":"The provided image displays two super-resolution microscopy views of DNA within human BJ fibroblast cells. The left panel shows a grayscale image where nuclei and the DNA structures appear as discrete clusters and dots. The right panel uses a colorized Voronoi tessellation method to quantitatively illustrate DNA density. The colors range from blue (low density) to black (high density), effectively mapping the local variations in DNA density. Both images are marked with a scale of 4 \u03bcm and feature a highlighted purple square indicating regions of particular interest, likely highlighting key areas for density analysis."
+    },
+    {
+        "id":"Alignment_VQA_21",
+        "prompt":"Could you provide a description of what is shown in the picture?",
+        "response":{
+            "vision":"\nCould you provide a description of what is shown in the picture? The image presents a vivid and intricate scene. Dominated by a vibrant palette of red and green, the background is a complex tapestry of overlapping shapes and lines, creating a sense of depth and dimension. The red hues are primarily concentrated in the center, gradually fading to a subtler green towards the edges, adding a dynamic contrast to the composition. \n\nScattered throughout this scene are distinct red and green spherical shapes. Their random distribution adds an element of unpredictability to the image. Two labels, \"C\" and \"K1\", are superimposed on the image. \"C\" is positioned in the top right corner, while \"K1\" occup"
+        },
+        "semantic_similarity":{
+            "vision":0.364490509
+        },
+        "true_label":"This image is a confocal microscopy representation of transverse sections of embryos that have been electroporated with different genetic constructs. Specifically, this section (labeled C-C''') has been treated with a wild type human SNAI1 (WThSNAI1) gene construct. The image shows dual fluorescence labeling where the protein SNAI1 is marked in green and E-cadherin, a cellular adhesion molecule, is marked in red. The overlapping areas appear in yellow due to the merging of green and red fluorescence, indicating co-localization of the two proteins in some areas. The image displays a series of cells along the embryo's section, each showing varying levels of green and red fluorescence, segmented by dashed white boxes into several focus areas for detailed examination. The cellular outline is evident due to the intense red staining outlining cell boundaries whereas green fluorescence is confined to some areas within the cells, suggesting the expression pattern of the SNAI1 protein."
+    },
+    {
+        "id":"Alignment_VQA_24",
+        "prompt":"Analyze the image in a comprehensive and detailed manner.",
+        "response":{
+            "vision":"\nAnalyze the image in a comprehensive and detailed manner. The image presents a close-up view of a white marble surface, marked by a grid of dark purple and black spots scattered randomly across it. The marble, though predominantly white, is speckled with these spots, creating a pattern that is both chaotic and intriguing. \n\nThree small images are embedded within the marble surface, each varying in size and are outlined by a thin black border. These images, though small and seemingly random, add an element of surprise and curiosity to the otherwise plain marble surface.\n\nThe background is a stark white, providing a contrast that makes the marble surface and the dark spots and small images stand out. The top left corner"
+        },
+        "semantic_similarity":{
+            "vision":0.0900021046
+        },
+        "true_label":"The provided image appears to be a histological section of skeletal muscle tissue. The tissue displays numerous necrotic and regenerating muscle fibers, as indicated by the hematoxylin-eosin (H&E) staining. The image also shows an upregulation of major histocompatibility complex class I (MHC-I) expression, as well as sarcoplasmic deposition of the membrane attack complex (MAC) on the muscle fibers. These findings are characteristic of an immune-mediated necrotizing myopathy (IMNM), a condition associated with autoimmune disorders. The image provides representative examples of the histological features observed in both seropositive and seronegative forms of IMNM."
+    }
+]
