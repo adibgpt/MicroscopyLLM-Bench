@@ -1,0 +1,72 @@
+[
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"The image shows a large, round cell with dense, granular appearance in a microscopy image. Based on the cellular morphology, it is most likely a **adherent cell**.\n\nThe correct answer is:\n       1)An adherent cell"
+        },
+        "true_label":"a grayscale microscopy image of a cell"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"4) Image of a cell"
+        },
+        "true_label":"a grayscale microscopy image of a cell"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"1) An adherent cell"
+        },
+        "true_label":"a grayscale microscopy image of an adherent cell"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"1)An adherent cell"
+        },
+        "true_label":"a grayscale microscopy image of an adherent cell"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"1)An adherent cell"
+        },
+        "true_label":"a grayscale microscopy image of an adherent cell"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":" 2) A cell with debris"
+        },
+        "true_label":"a grayscale microscopy image of a cell with debris"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"1) An adherent cell"
+        },
+        "true_label":"a grayscale microscopy image of a cell with debris"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"4) Image of a cell"
+        },
+        "true_label":"a grayscale microscopy image of a cell on the well edge"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"3) A cell on the well edge"
+        },
+        "true_label":"a grayscale microscopy image of a cell on the well edge"
+    },
+    {
+        "prompt":"\" The given image is a type of cell image captured by microscopy technique. can you identify what kind of the following cell does the given image more representing for?\n       1)An adherent cell\n       2)A cell with debris \n       3)A cell on\u00a0the\u00a0well\u00a0edge\n       4)Image of a cell\n        please respond with the option with value, no need of explanation.\n\n        ",
+        "response":{
+            "vision":"3) A cell on the well edge"
+        },
+        "true_label":"a grayscale microscopy image of a cell on the well edge"
+    }
+]
