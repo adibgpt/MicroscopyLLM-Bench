@@ -1,7 +1,5 @@
 # MicroscopyLLM-Bench
 
-# Microscopy Image Analysis and Classification
-
 This repository provides a comprehensive pipeline for object detection, object classification, and image analysis on microscopic datasets. The workflows are implemented in Jupyter notebooks and focus on datasets of microscopic cell images and histopathological data.
 
 ## Project Overview
