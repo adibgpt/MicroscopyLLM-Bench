@@ -101,7 +101,7 @@ Follow these steps to run the notebooks:
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/adibgpt/MicroscopyLLM-Bench)
+   git clone https://github.com/adibgpt/MicroscopyLLM-Bench.git
    cd MicroscopyLLM-Bench
    ```
 
