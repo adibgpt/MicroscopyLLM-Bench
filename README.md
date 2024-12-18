@@ -103,6 +103,7 @@ Results are stored in JSON format for each notebook.
 - `intern_vl2_Datset2ObjClass_results.json`
 
 ![image](https://github.com/adibgpt/MicroscopyLLM-Bench/blob/1f17103e5dc154f009c26ff78f6fb6904ef9123a/Dreambooth%20Cell%20Images-gemini1.5flash.png)
+![image](https://github.com/adibgpt/MicroscopyLLM-Bench/blob/66ba53b3feb08f2c33db9cecc2824e49deccf69a/Dreambooth%20Cell%20Images-gemini1.5pro.png)
 
 ### PubMedVision Results
 - `gemini_1_PubMED_results.json`
