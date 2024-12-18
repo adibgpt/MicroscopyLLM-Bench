@@ -95,6 +95,7 @@ Results are stored in JSON format for each notebook.
 - `intern_vl2_Microscopic_ObjectDetection_results.json`
 
 ![image](https://github.com/adibgpt/MicroscopyLLM-Bench/blob/66e4cce95e35ba5056f116a03f644a877e6b43e0/Brightfield%20Microscopy%20SCC-gemini1.5flash.png)
+![image](https://github.com/adibgpt/MicroscopyLLM-Bench/blob/b3e87082f69d1683deec8c1d3186a5ef132980bf/Brightfield%20Microscopy%20SCC-gemini1.5pro.png)
 
 ### Dreambooth Cell Images Results
 - `gemini_1_Datset2ObjClass_results.json`
