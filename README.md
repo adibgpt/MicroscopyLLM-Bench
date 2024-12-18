@@ -110,6 +110,8 @@ Results are stored in JSON format for each notebook.
 - `intern_vl2_PubMED_results.json`
 - `llava_PubMED_results.json`
 
+![image](https://github.com/adibgpt/MicroscopyLLM-Bench/blob/2e1dbb6a93d2bd5ce69c1986b664c55e0aec578b/PubMedVision-gemini1.5flash.png)
+
 ## How to Run
 Follow these steps to run the notebooks:
 
